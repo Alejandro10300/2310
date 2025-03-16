@@ -1,4 +1,4 @@
-## LEVIATHAN
+# LEVIATHAN
 ## Level 0
 leviathan0
 ## Level 1
@@ -16,7 +16,7 @@ szo7HDB88w
 ## Level 7
 qEs5Io5yM8
 
-## KRYPTON
+# KRYPTON
 ## Level 0
 KRYPTONISGREAT
 ## Level 1
