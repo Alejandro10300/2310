@@ -1,6 +1,6 @@
-Hey rookie! So you decided to dive into this wonderful world known as Linux? It’s gonna be a beautiful and enjoyable road ahead! My name is Penguin Pete and I’m here to guide you through this journey. Let’s get started with a little bit of backstory about Linux.
+##Hey rookie! So you decided to dive into this wonderful world known as Linux? It’s gonna be a beautiful and enjoyable road ahead! My name is Penguin Pete and I’m here to guide you through this journey. Let’s get started with a little bit of backstory about Linux.
 
-To learn about how Linux came to be, let’s go back to the beginning to 1969 where Ken Thompson and Dennis Ritchie of Bell Laboratories developed the UNIX operating system. It was later rewritten in C to make it more portable and eventually became a widely used operating system.
+##To learn about how Linux came to be, let’s go back to the beginning to 1969 where Ken Thompson and Dennis Ritchie of Bell Laboratories developed the UNIX operating system. It was later rewritten in C to make it more portable and eventually became a widely used operating system.
 
 A decade or so later, Richard Stallman started working on the GNU (GNU is Not UNIX) project, the GNU kernel called Hurd, which unfortunately never came to completion. The GNU General Public License (GPL), a free software license, was also created as a result of this.
 
